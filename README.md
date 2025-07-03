@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @waki-loveburger
 - 👀 I’m interested in electronic music making
-- 🌱 I’m currently learning VCV Rack
+- 🌱 I’m currently using MuseScore/Renoise/VCVRack/BespokeSynth etc.
 - 💞️ I’m looking to collaborate on any kind of producers
-- 📫 How to reach me (https://www.youtube.com/channel/UC5fZDjPUmQeEP14COqba74g)
+- 📫 How to reach me https://linktr.ee/easyandnice
 
 <!---
 waki-loveburger/waki-loveburger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
